@@ -15,7 +15,7 @@
 ### About
 
 <p align="justify">
-Computer Science undergraduate specializing in Artificial Intelligence & Machine Learning, with a strong focus on systems software, full-stack web platforms, and open-source infrastructure. Active contributor within the <b>openSUSE</b> ecosystem, building automated developer tooling, maintaining core release pipelines, and solving real-world systems problems.
+Computer Science undergraduate specializing in Artificial Intelligence & Machine Learning, with a strong focus on systems software, full-stack web platforms, and open-source infrastructure. Active contributor within the <b>openSUSE</b> ecosystem, building automated developer tooling, maintaining core release pipelines, and solving real-world systems problems at scale across production environments.
 </p>
 
 ---
