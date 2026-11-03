@@ -57,7 +57,7 @@ Computer Science undergraduate specializing in Artificial Intelligence & Machine
 ### Technologies
 
 **Languages**  
-`Python` `C++` `C` `JavaScript` `Ruby` `Bash`
+`Python` `Rust` `C++` `C` `JavaScript` `Ruby` `Bash`
 
 **Web & Frameworks**  
 `React` `Node.js` `Express` `Ruby on Rails` `REST APIs`
