@@ -4,7 +4,7 @@
 
 <p><strong>CSE (AI & ML) · Open Source Contributor · Linux & Developer Tools</strong></p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rithullkallat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rithull-raj-kallat)
 [![openSUSE Profile](https://img.shields.io/badge/openSUSE_Member-173f35?style=for-the-badge&logo=opensuse&logoColor=73ba25)](https://en.opensuse.org/User:Kallat)
 [![Contact](https://img.shields.io/badge/Contact-000000?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=rithullkallat@opensuse.org)
 
