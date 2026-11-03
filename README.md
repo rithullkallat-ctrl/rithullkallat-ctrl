@@ -33,10 +33,11 @@ Computer Science undergraduate specializing in Artificial Intelligence & Machine
 
 ---
 
-### Open Source Contributions @ openSUSE
+### Open Source Contributions
 
 | Repository | Domain / Focus | PR | Status |
 | :--- | :--- | :---: | :---: |
+| **[`NVIDIA/NemoClaw`](https://github.com/NVIDIA/NemoClaw)** | Prevent untagged Classic builds from reporting incorrect `0.1.x` release fallback | [#14108](https://github.com/NVIDIA/NemoClaw/pull/14108) | **`Merged`** |
 | **[`openSUSE/mentoring`](https://github.com/openSUSE/mentoring)** | Core markdown parser stability & null-safety on GSoC portal (`101.o.o`) | [#294](https://github.com/openSUSE/mentoring/pull/294) | **`Merged`** |
 | **[`openSUSE/openSUSE-release-tools`](https://github.com/openSUSE/openSUSE-release-tools)** | Staging & CI bot `KeyError` resolution for Gitea review pipelines | [#3374](https://github.com/openSUSE/openSUSE-release-tools/pull/3374) | **`In Review`** |
 | **[`openSUSE/software-o-o`](https://github.com/openSUSE/software-o-o)** | Distribution detection & package download repository routing for Leap | [#1818](https://github.com/openSUSE/software-o-o/pull/1818) | **`In Review`** |
