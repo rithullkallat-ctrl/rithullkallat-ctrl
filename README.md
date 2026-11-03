@@ -39,9 +39,10 @@ Computer Science undergraduate specializing in Artificial Intelligence & Machine
 | :--- | :--- | :---: | :---: |
 | **[`NVIDIA/NemoClaw`](https://github.com/NVIDIA/NemoClaw)** | Prevent untagged Classic builds from reporting incorrect `0.1.x` release fallback | [#14108](https://github.com/NVIDIA/NemoClaw/pull/14108) | **`Merged`** |
 | **[`openSUSE/mentoring`](https://github.com/openSUSE/mentoring)** | Core markdown parser stability & null-safety on GSoC portal (`101.o.o`) | [#294](https://github.com/openSUSE/mentoring/pull/294) | **`Merged`** |
+| **[`openSUSE/open-build-service`](https://github.com/openSUSE/open-build-service)** | Cyclic devel package error handling & 500 crash prevention in package meta | [#20592](https://github.com/openSUSE/open-build-service/pull/20592) | **`In Review`** |
+| **[`openSUSE/open-build-service`](https://github.com/openSUSE/open-build-service)** | Repository presence validation for release triggers with specified targets | [#20576](https://github.com/openSUSE/open-build-service/pull/20576) | **`In Review`** |
+| **[`openSUSE/osc`](https://github.com/openSUSE/osc)** | Honor `no_proxy` setting by routing host netloc instead of full URL to proxy bypass | [#2246](https://github.com/openSUSE/osc/pull/2246) | **`In Review`** |
 | **[`openSUSE/openSUSE-release-tools`](https://github.com/openSUSE/openSUSE-release-tools)** | Staging & CI bot `KeyError` resolution for Gitea review pipelines | [#3374](https://github.com/openSUSE/openSUSE-release-tools/pull/3374) | **`In Review`** |
-| **[`openSUSE/software-o-o`](https://github.com/openSUSE/software-o-o)** | Distribution detection & package download repository routing for Leap | [#1818](https://github.com/openSUSE/software-o-o/pull/1818) | **`In Review`** |
-| **[`openSUSE/wiki`](https://github.com/openSUSE/wiki)** | MediaWiki Chameleon theme asset routing & broken sponsor resolution | [#70](https://github.com/openSUSE/wiki/pull/70) | **`In Review`** |
 
 ---
 
