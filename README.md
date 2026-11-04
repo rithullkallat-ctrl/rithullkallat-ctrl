@@ -22,15 +22,14 @@ Computer Science undergraduate specializing in Artificial Intelligence & Machine
 
 ### Featured Work & Projects
 
+- **NVIDIA NemoClaw (Official Release Recognition)**  
+  Contributed core packaging and runtime telemetry fixes ([#14108](https://github.com/NVIDIA/NemoClaw/pull/14108)) officially acknowledged and thanked by NVIDIA in the [NemoClaw v0.0.141 Release Announcement](https://github.com/NVIDIA/NemoClaw/discussions/14165).
+
 - **Mission Copilot** *(Smart India Hackathon Finalist)*  
-  An intelligent mission-critical assistance platform designed for automated operational intelligence, real-time telemetry analytics, and edge resilience.
+  An intelligent mission-critical assistance platform designed for automated operational intelligence, and real-time telemetry analytics.
 
 - **openSUSE Developer & Release Infrastructure**  
   Active engineering contributions across openSUSE core tools, including automated Gitea CI review bots, Leap distribution resolution engines, and GSoC developer portals.
-
-- **Systems & Algorithmic Tooling**  
-  High-performance algorithmic implementations and automation utilities focused on memory safety, optimal runtime complexity, and Linux system workflows.
-
 ---
 
 ### Open Source Contributions
