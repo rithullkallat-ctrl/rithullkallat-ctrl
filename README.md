@@ -63,7 +63,7 @@ Computer Science undergraduate specializing in Artificial Intelligence & Machine
 `React` `Node.js` `Express` `Ruby on Rails` `REST APIs`
 
 **Systems & Tools**  
-`Linux (openSUSE)` `Git` `Docker` `GitHub Actions` `OBS (Open Build Service)`
+`Linux` `Docker` `GitHub Actions` `OBS (Open Build Service)`
 
 ---
 
