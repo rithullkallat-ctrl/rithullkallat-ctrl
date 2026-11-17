@@ -38,14 +38,12 @@ Computer Science undergraduate specializing in Artificial Intelligence & Machine
 | :--- | :--- | :---: | :---: |
 | **[`NVIDIA/NemoClaw`](https://github.com/NVIDIA/NemoClaw)** | Prevent untagged Classic builds from reporting incorrect `0.1.x` release fallback | [#14108](https://github.com/NVIDIA/NemoClaw/pull/14108) | **`Merged`** |
 | **[`openSUSE/open-build-service`](https://github.com/openSUSE/open-build-service)** | Prevent crash on unreadable changes file in `commit_message_from_changes_file` | [#20606](https://github.com/openSUSE/open-build-service/pull/20606) | **`Merged`** |
-| **[`openSUSE/open-build-service`](https://github.com/openSUSE/open-build-service)** | Ignore 400 unknown request errors in `Project::RemoteURL` | [#20612](https://github.com/openSUSE/open-build-service/pull/20612) | **`Merged`** |
-| **[`openSUSE/mentoring`](https://github.com/openSUSE/mentoring)** | Core markdown parser stability & null‑safety on GSoC portal (`101.o.o`) | [#294](https://github.com/openSUSE/mentoring/pull/294) | **`Merged`** |
-| **[`openSUSE/open-build-service`](https://github.com/openSUSE/open-build-service)** | Cyclic devel package error handling & 500 crash prevention in package meta | [#20592](https://github.com/openSUSE/open-build-service/pull/20592) | **`In Review`** |
+| **[`openSUSE/open-build-service`](https://github.com/openSUSE/open-build-service)** | Cyclic devel package error handling & 500 crash prevention in package meta | [#20592](https://github.com/openSUSE/open-build-service/pull/20592) | **`Merged`** |
+| **[`openSUSE/mentoring`](https://github.com/openSUSE/mentoring)** | Core markdown parser stability & null-safety on GSoC portal (`101.o.o`) | [#294](https://github.com/openSUSE/mentoring/pull/294) | **`Merged`** |
+| **[`openSUSE/open-build-service`](https://github.com/openSUSE/open-build-service)** | Ignore 400 unknown request errors in `Project::RemoteURL` | [#20622](https://github.com/openSUSE/open-build-service/pull/20622) | **`In Review`** |
 | **[`openSUSE/open-build-service`](https://github.com/openSUSE/open-build-service)** | Repository presence validation for release triggers with specified targets | [#20576](https://github.com/openSUSE/open-build-service/pull/20576) | **`In Review`** |
 | **[`openSUSE/osc`](https://github.com/openSUSE/osc)** | Honor `no_proxy` setting by routing host netloc instead of full URL to proxy bypass | [#2246](https://github.com/openSUSE/osc/pull/2246) | **`In Review`** |
 | **[`openSUSE/openSUSE-release-tools`](https://github.com/openSUSE/openSUSE-release-tools)** | Staging & CI bot `KeyError` resolution for Gitea review pipelines | [#3374](https://github.com/openSUSE/openSUSE-release-tools/pull/3374) | **`In Review`** |
----
-
 ### Community & Leadership
 
 - **International Conference Speaker:** Delivered technical sessions and talks on open-source ecosystems, systems tooling, and developer workflows.
